@@ -1,6 +1,14 @@
 # Java Bank Management System
 
 A console-based Bank Management System developed using Java to practice Object-Oriented Programming concepts, interfaces, methods, conditional statements, and user input.
+# Java Bank Management System
+
+A console-based Bank Management System developed using Java to practice Object-Oriented Programming concepts, interfaces, methods, conditional statements, and user input.
+
+## Project Demo
+
+![Bank Management System Demo](bank-management-system-demo.png)
+
 
 ## Features
 
